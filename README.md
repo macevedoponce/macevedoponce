@@ -54,7 +54,7 @@ If you want to join our community, learn App coding, and help the continuity of 
 
 ## Contact & support:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://api.whatsapp.com/send/?phone=+51982126861&text=Hola+Miguel+,necesito+ayuda+con+mi+computadora+%3Ac&app_absent=0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://api.whatsapp.com/send/?phone=+51982126861&text=Hola+Miguel+,vengo+de+GitHub+%3Ac&app_absent=0)
 </br>
 [![Email](https://img.shields.io/badge/73122365@continental.edu.pe-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:73122365@continental.edu.pe)
 </br>
