@@ -37,10 +37,11 @@ I am currently specializing in the development of mobile solutions and video gam
 [![Instagram](https://img.shields.io/badge/Instagram-miguel.acevedo10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/miguel.acevedo10/)
 [![Facebook](https://img.shields.io/badge/Facebook-@macevedoponce-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/macevedoponce)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-macevedo.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Acevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-acevedo-ponce-6b9520178)
 [![Web](https://img.shields.io/badge/Web-macevedoponce.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
-[![Project soluciones Windows](https://img.shields.io/badge/Web-Windows-SolucionesWindows.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://solucioneswindows.epizy.com/)
+</br>
+[![Link](https://img.shields.io/badge/Link_Site-solucioneswindows.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](http://solucioneswindows.epizy.com/)
+
 
 ## The Estudiando community project:
 ![https://twitimer.com](https://github.com/macevedoponce/macevedoponce/blob/main/estudiando_banner.png?raw=true)
