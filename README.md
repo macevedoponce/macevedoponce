@@ -33,7 +33,7 @@ Soy un bachiller en Ingeniería de Sistemas e Informática, con un diplomado en 
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Acevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-acevedo-ponce-6b9520178)
-[![Web](https://img.shields.io/badge/Web-macevedoponce.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+[![Web](https://img.shields.io/badge/Web-macevedoponce.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://macevedoponce.000.pe/)
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-solucioneswindows.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](http://solucioneswindows.epizy.com/)
 
