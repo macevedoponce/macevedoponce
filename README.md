@@ -33,10 +33,23 @@ Soy un bachiller en Ingeniería de Sistemas e Informática, con un diplomado en 
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Acevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-acevedo-ponce-6b9520178)
-[![Web](https://img.shields.io/badge/Web-macevedoponce.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](http://macevedoponce.000.pe/)
+[![Web](https://img.shields.io/badge/Web-macevedoponce.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev-alpha-beige.vercel.app/)
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-solucioneswindows.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](http://solucioneswindows.epizy.com/)
 
+## FerreyGO APP:
+![https://twitimer.com](https://github.com/macevedoponce/macevedoponce/blob/main/ferreygo_banner.png?raw=true)
+
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20Android%20App%20repository&style=social)](https://github.com/macevedoponce/edoconnect.git)
+
+FerreyGO es una **[App Android]()** diseñada para optimizar la gestión de ventas en campo y oficina, facilitando el seguimiento de pedidos, sincronización en tiempo real y modo offline.
+
+## CamCielo APP:
+![https://twitimer.com](https://github.com/macevedoponce/macevedoponce/blob/main/camcielo_banner.png?raw=true)
+
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20Android%20App%20repository&style=social)](https://github.com/macevedoponce/edoconnect.git)
+
+CamCielo es una **[App Android]()** que tiene la finalidad de ayudar a docentes en el proceso de registro de asistencia, participaciones y generar reportes.
 
 ## EduConnect:
 ![https://twitimer.com](https://github.com/macevedoponce/macevedoponce/blob/main/educonnect_banner.png?raw=true)
